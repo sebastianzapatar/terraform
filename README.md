@@ -26,5 +26,5 @@ Aprender Infraestructura como Código (IaC) con ejemplos prácticos y progresivo
 ## Cómo usar este repositorio
 
 ```bash
-git clone <URL_DEL_REPO>
-cd <NOMBRE_DEL_REPO>
+git clone https://github.com/sebastianzapatar/terraform.git
+cd terraform
